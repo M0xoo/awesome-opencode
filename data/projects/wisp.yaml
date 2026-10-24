@@ -1,0 +1,4 @@
+name: wisp
+repo: https://github.com/M0xoo/wisp
+tagline: Run opencode and other agents in the background and read a one-screen report, not the transcript
+description: wisp launches opencode (or Claude Code, Codex, Cursor, Grok, Copilot) on a task in its own git worktree and, when it finishes, hands back a short report with the diff, test results and a PR button. Agents can ask you questions mid-run; answer them from the web UI, the desktop app or the Android app, or take the session over in a terminal with `opencode --session`. MIT, self-hosted or on wisp Cloud.
